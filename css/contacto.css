@@ -13,7 +13,7 @@ body{
     display: flex;
 }
 .form{
-    background-color:#031e36;
+    background-color:#1071c5;
     width: 90%;
     margin: auto;
     max-width: 400px;
@@ -31,9 +31,11 @@ body{
 }
 
 .form__title{
+    
     text-align: center;
     font-size: 1.9em;
     margin-bottom: .4em;
+    color: #fff;
 }
 
 
